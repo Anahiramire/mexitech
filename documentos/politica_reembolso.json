@@ -1,0 +1,27 @@
+{
+    "documento": "Politica de Reembolso y Devoluciones",
+    "compania": "MexiTech Market",
+    "version": "2.1",
+    "politicas_clave": [
+        {
+            "id": "REF-001",
+            "titulo": "Plazo de Devolución",
+            "descripcion": "El cliente tiene un plazo máximo de 30 días naturales a partir de la fecha de recepción del producto para solicitar una devolución o cambio."
+        },
+        {
+            "id": "REF-002",
+            "titulo": "Condiciones del Producto",
+            "descripcion": "El artículo debe estar sin usar, en las mismas condiciones en que se recibió, y en su empaque original con todas las etiquetas intactas."
+        },
+        {
+            "id": "REF-003",
+            "titulo": "Excepciones",
+            "descripcion": "No se aceptan devoluciones en productos de software con licencias ya activadas, artículos de higiene personal o productos en liquidación final."
+        },
+        {
+            "id": "REF-004",
+            "titulo": "Proceso de Reembolso",
+            "descripcion": "Una vez recibido e inspeccionado el producto en el almacén central, el reembolso se procesará automáticamente al método de pago original en un lapso de 5 a 7 días hábiles."
+        }
+    ]
+}
